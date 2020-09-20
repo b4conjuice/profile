@@ -14,7 +14,7 @@ const Page = ({ title = DEFAULT_TITLE, children }) => (
         content="width=device-width, initial-scale=1, shrink-to-fit=no"
       />
       <meta charSet="utf-8" />
-      <meta name="description" content="with bacon" />
+      <meta name="description" content="profile" />
       <meta name="theme-color" content="#193549" />
       <link rel="shortcut icon" href="/favicon.png" />
       <link rel="apple-touch-icon" sizes="57x57" href="/icon.png" />
